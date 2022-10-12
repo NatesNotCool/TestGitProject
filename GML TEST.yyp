@@ -8,6 +8,7 @@
     {"id":{"name":"Obj_bruh","path":"objects/Obj_bruh/Obj_bruh.yy",},"order":3,},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},"order":1,},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":0,},
+    {"id":{"name":"scr_do_stuff","path":"scripts/scr_do_stuff/scr_do_stuff.yy",},"order":0,},
     {"id":{"name":"Spr_my_sprite","path":"sprites/Spr_my_sprite/Spr_my_sprite.yy",},"order":1,},
     {"id":{"name":"ObjectKeyWord","path":"objects/ObjectKeyWord/ObjectKeyWord.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
