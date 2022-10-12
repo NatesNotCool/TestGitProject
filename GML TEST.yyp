@@ -4,8 +4,12 @@
   "name": "GML TEST",
   "resources": [
     {"id":{"name":"Obj_my_object","path":"objects/Obj_my_object/Obj_my_object.yy",},"order":4,},
+    {"id":{"name":"Obj_ew_ugly","path":"objects/Obj_ew_ugly/Obj_ew_ugly.yy",},"order":5,},
     {"id":{"name":"Spr_bruh","path":"sprites/Spr_bruh/Spr_bruh.yy",},"order":0,},
+    {"id":{"name":"Spr_gross","path":"sprites/Spr_gross/Spr_gross.yy",},"order":2,},
+    {"id":{"name":"Room69","path":"rooms/Room69/Room69.yy",},"order":1,},
     {"id":{"name":"Obj_bruh","path":"objects/Obj_bruh/Obj_bruh.yy",},"order":3,},
+    {"id":{"name":"new_bracnh_script","path":"scripts/new_bracnh_script/new_bracnh_script.yy",},"order":1,},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},"order":1,},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":0,},
     {"id":{"name":"scr_do_stuff","path":"scripts/scr_do_stuff/scr_do_stuff.yy",},"order":0,},
@@ -26,6 +30,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room69","path":"rooms/Room69/Room69.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":11,},
